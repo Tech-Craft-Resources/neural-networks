@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "Machine Learning": {
+      "source": "pluginagentmarketplace/custom-plugin-python",
+      "sourceType": "github",
+      "computedHash": "3f8acd60c2ed7185f52a38ef44a025ed7fdac239b7373fc662f9eddacf39c10f"
+    }
+  }
+}
